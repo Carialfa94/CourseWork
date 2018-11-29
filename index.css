@@ -57,8 +57,9 @@ font-family: 'LobsterRegular';
   p{
 	      font-family:  'DancingScriptRegular';
                   color: #800000;
-    background-color:gray;
-				text-align: left;
+    padding: 70px;
+    border: 1px solid #4CAF50;			
+	  text-align: left;
       font-style: strong;
      font-weight: 900;
     font-size: 300%;
