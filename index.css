@@ -1,0 +1,84 @@
+
+			
+			#content {
+              font-size: 40px}
+
+		
+a{
+    font-size: 200%;
+  color:white;
+    text-align: center;
+}
+			#nav, #footer, #option {
+			    text-align: center;
+			
+				padding: 0.5em 0;}
+		
+
+body, html {
+background-image: url("https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0c4b5fcc53abd6158286dc86a9be4bee");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  margin: 0 auto ;}
+			
+
+
+  
+h1{font-family: 'DancingScriptRegular'; 
+                 color: white;
+				text-align: left ;
+                font-weight: bold; 
+                font-style: normal;
+                font-size: 800%;
+   margin: 0px;
+  padding: 0px;
+
+  
+}
+h3{
+  font-family: 'DancingScriptRegular'; 
+                 color: white;
+				text-align: center;
+                font-weight: bold; 
+                font-style: normal;
+                font-size: 500%;
+}
+
+h2{
+font-family: 'LobsterRegular';  
+    color: #FFE4B5;
+  	text-align: right;
+  position:right ;
+  
+	}
+
+
+  p{
+	      font-family:  'DancingScriptRegular';
+                  color: #800000;
+    background-color:gray;
+				text-align: left;
+      font-style: strong;
+     font-weight: 900;
+    font-size: 300%;
+}
+	  
+  mark {
+   
+    color: yellow;
+}
+  
+
+			li  {
+  text-align: center;
+				font-family: 'LobsterRegular';  
+                font-weight: normal; 
+                font-style: normal;
+              display: inline;
+				padding: 0.5em;
+}
+
+  
+  
+  
