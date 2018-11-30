@@ -1,12 +1,11 @@
-
-			
+	
 			#content {
               font-size: 40px}
 
 		
 a{
     font-size: 200%;
-  color:white;
+  color: #800000;
     text-align: center;
 }
 			#nav, #footer, #option {
@@ -43,19 +42,12 @@ h1{font-family: 'DancingScriptRegular';
 
   
 }
-h3{
-  font-family: 'DancingScriptRegular'; 
-                 color: white;
-				text-align: center;
-                font-weight: bold; 
-                font-style: normal;
-                font-size: 500%;
-}
+
 
 h2{
 font-family: 'LobsterRegular';  
-    color: #FFE4B5;
-  	text-align: right;
+    color: #8B4513;
+  	text-align: left;
   position:right ;
   
 	}
@@ -63,12 +55,10 @@ font-family: 'LobsterRegular';
 
   p{
 	      font-family:  'DancingScriptRegular';
-                  color: #800000;
-    padding: 70px;
-    border: 1px solid #4CAF50;			
+                  color:#8B4513;
+    padding: 70px;			
 	  text-align: left;
       font-style: strong;
-     font-weight: 900;
     font-size: 300%;
 }
 	  
@@ -87,6 +77,23 @@ font-family: 'LobsterRegular';
 				padding: 0.5em;
 }
 
-  
-  
-  
+.Course h3 {
+  font-family: 'DancingScriptRegular';
+   color:   #8B4513;
+  font-weight: normal;
+ font-size:400%;
+  font-weight: 900;
+  text-align: left;
+  margin: 0
+    
+}
+.Course h4 {
+  font-family: 'DancingScriptRegular';
+  color:   #8B4513;
+  font-weight:normal;
+   font-size: 350%;
+  font-weight: 900;
+  text-align: center;
+  margin: 0
+    
+}
