@@ -22,9 +22,9 @@ background-image: url("https://images.unsplash.com/photo-1516979187457-637abb4f9
   margin: 0 auto;
 
     padding-top: 50px;
-    padding-right: 30px;
+    padding-right: 80px;
     padding-bottom: 50px;
-    padding-left: 80px;
+    padding-left: 30px;
 }
 		
 			
@@ -93,7 +93,17 @@ font-family: 'LobsterRegular';
   font-weight:normal;
    font-size: 350%;
   font-weight: 900;
-  text-align: center;
+  text-align: left;
   margin: 0
     
 }
+.link a{
+     font-family:  'DancingScriptRegular';
+                  color:#8B4513;
+    padding: 70px;			
+	  text-align: left;
+      font-style: strong;
+    font-size: 300%;
+}
+  
+
