@@ -1,109 +1,82 @@
-	
-			#content {
-              font-size: 40px}
-
-		
-a{
-    font-size: 200%;
-  color: #800000;
-    text-align: center;
+#content {
+font-size : 40px;
 }
-			#nav, #footer, #option {
-			    text-align: center;
-			
-				padding: 0.5em 0;}
-
+a {
+font-size : 200%;
+color : #800000;
+text-align : center;
+}
+#nav, #footer, #option {
+text-align : center;
+padding : 0.5em 0;
+}
 body, html {
-background-image: url("https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0c4b5fcc53abd6158286dc86a9be4bee");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-  background-attachment:fixed;
-  margin: 0 auto;
-
-    padding-top: 50px;
-    padding-right: 80px;
-    padding-bottom: 50px;
-    padding-left: 30px;
+background-image : url("https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0c4b5fcc53abd6158286dc86a9be4bee");
+background-position : center;
+background-repeat : no-repeat;
+background-size : cover;
+background-attachment : fixed;
+margin : 0 auto;
+padding-top : 50px;
+padding-right : 80px;
+padding-bottom : 50px;
+padding-left : 30px;
 }
-		
-			
-
-
-  
-h1{font-family: 'DancingScriptRegular'; 
-                 color: #800000;
-				text-align: left ;
-                font-weight: bold; 
-                font-style: normal;
-                font-size: 800%;
-   margin: 0px;
-  padding: 0px;
-
-  
+h1 {
+font-family : 'DancingScriptRegular';
+color : #800000;
+text-align : left;
+font-weight : bold;
+font-style : normal;
+font-size : 800%;
+margin : 0;
+padding : 0;
 }
-
-
-h2{
-font-family: 'LobsterRegular';  
-    color: #8B4513;
-  	text-align: left;
-  position:right ;
-  
-	}
-
-
-  p{
-	      font-family:  'DancingScriptRegular';
-                  color:#8B4513;
-    padding: 70px;			
-	  text-align: left;
-      font-style: strong;
-    font-size: 300%;
+h2 {
+font-family : 'LobsterRegular';
+color : #8B4513;
+text-align : left;
 }
-	  
-  mark {
-   
-    color: yellow;
+p {
+font-family : 'DancingScriptRegular';
+color : #8B4513;
+padding : 70px;
+text-align : left;
+font-size : 300%;
 }
-  
-
-			li  {
-  text-align: center;
-				font-family: 'LobsterRegular';  
-                font-weight: normal; 
-                font-style: normal;
-              display: inline;
-				padding: 0.5em;
+mark {
+color : yellow;
 }
-
+li {
+text-align : center;
+font-family : 'LobsterRegular';
+font-weight : normal;
+font-style : normal;
+display : inline;
+padding : 0.5em;
+}
 .Course h3 {
-  font-family: 'DancingScriptRegular';
-   color:   #8B4513;
-  font-weight: normal;
- font-size:400%;
-  font-weight: 900;
-  text-align: left;
-  margin: 0
-    
+font-family : 'DancingScriptRegular';
+color : #8B4513;
+font-weight : normal;
+font-size : 400%;
+font-weight : 900;
+text-align : left;
+margin : 0;
 }
 .Course h4 {
-  font-family: 'DancingScriptRegular';
-  color:   #8B4513;
-  font-weight:normal;
-   font-size: 350%;
-  font-weight: 900;
-  text-align: left;
-  margin: 0
-    
+font-family : 'DancingScriptRegular';
+color : #8B4513;
+font-weight : normal;
+font-size : 350%;
+font-weight : 900;
+text-align : left;
+margin : 0;
 }
-.link a{
-     font-family:  'DancingScriptRegular';
-                  color:#8B4513;
-    padding: 70px;			
-	  text-align: left;
-      font-style: strong;
-    font-size: 300%;
+.link a {
+font-family : 'DancingScriptRegular';
+color : #8B4513;
+padding : 70px;
+text-align : left;
+font-size : 300%;
 }
-  
-
